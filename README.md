@@ -1,5 +1,7 @@
 # Robot-Animation-SVG
 
+https://joanbier.github.io/Robot-Animation-SVG/
+
 The animation uses the GSAP library to animate svg image. The robot blinks, moves its legs and there is a colorful wave effect on its chest.
 
 ## Technologies
